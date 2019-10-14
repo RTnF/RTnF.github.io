@@ -1,1 +1,15 @@
 theme: jekyll-theme-midnight
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path          : ""
+      type          : pages
+    values:
+      layout        : single
+      classes       : wide
+      author_profile: false
+      read_time     : false
+      comments      : false
+      share         : false
+      related       : true
