@@ -1,3 +1,9 @@
+---
+layout: default
+title: AOJ-ICPC memo
+description: AOJ-ICPCに掲載されている問題について、気づいたことをメモしていきます。
+---
+
 # **AOJ-ICPC memo**
 　[AOJ-ICPC](http://aoj-icpc.ichyo.jp)に掲載されている問題について、気づいたことをメモしていきます。バグや間違いのご指摘は[こちら](https://github.com/RTnF/RTnF.github.io/issues)からお願いいたします。
 
