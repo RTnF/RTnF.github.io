@@ -6,8 +6,10 @@ title: AGC038-C LCMs
 # **AtCoder 精進記録**
 [TOP page](../)
 ## AGC038-C LCMs
-### 点数
-700
+
+|点数|実行時間|メモリ|
+|:-:|:-:|:-:|
+|700|2 sec|1024 MB|
 
 ### 問題概要
 数列 $A_i (i=0,\cdots,N-1)$ に対し、 $\sum_{i=0}^{N-2} \sum_{j=i+1}^{N-1} \mathrm{lcm}{(A_i, A_j)}$ を求めよ。
